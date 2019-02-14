@@ -1,0 +1,12 @@
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EFDemo.exe.config
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EFDemo.exe
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EFDemo.pdb
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EntityFramework.dll
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EntityFramework.xml
+D:\Projects\C#\EFDemo\EFDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\C#\EFDemo\EFDemo\obj\Debug\EFDemo.Form1.resources
+D:\Projects\C#\EFDemo\EFDemo\obj\Debug\EFDemo.Properties.Resources.resources
+D:\Projects\C#\EFDemo\EFDemo\obj\Debug\EFDemo.csproj.GenerateResource.Cache
+D:\Projects\C#\EFDemo\EFDemo\obj\Debug\EFDemo.exe
+D:\Projects\C#\EFDemo\EFDemo\obj\Debug\EFDemo.pdb
